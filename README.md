@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=snakeauk&theme=transparent)
+
+![](https://raw.githubusercontent.com/snakeauk/snakeauk/output/github-contribution-grid-snake.svg)
