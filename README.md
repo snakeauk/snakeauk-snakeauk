@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snakeauk&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snakeauk&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snakeauk&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=snakeauk&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snakeauk&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=snakeauk&theme=gruvbox)
 
 ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/3-stats.svg)
 
