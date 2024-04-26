@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snakeauk&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snakeauk&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snakeauk&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=snakeauk&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snakeauk&theme=transparent&utcOffset=9)
 
